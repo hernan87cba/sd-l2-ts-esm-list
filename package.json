@@ -7,7 +7,7 @@
     "build": "tsc",
     "dev": "http-server & tsc -w",
     "start": "http-server",
-	"deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d ."
   },
   "keywords": [],
   "author": "Marce Zapaia <marce@apx.school> (https://apx.school)",
